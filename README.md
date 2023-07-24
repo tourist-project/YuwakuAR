@@ -39,3 +39,6 @@ HTMLは様々な要素全体が`<html>`タグで囲まれたWebページを構�
   </body>
 </html>
 ```
+というように、レスポンシブデザインの記述がこの数行で終わってしまいます。便利ですね。
+しかもBootStrapが持っている割といい感じのデザインも使えるようになります。
+[BootStrapのドキュメント](https://getbootstrap.jp/docs/5.3/getting-started/introduction/)
