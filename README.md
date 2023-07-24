@@ -14,6 +14,11 @@ HTMLは様々な要素全体が`<html>`タグで囲まれたWebページを構�
     <meta charset="UTF-8" />
     <meta name="viewport" content="width-device-width,initial-scale-1.0" />
     <title>YuwakuAR</title>
+    <style>
+      @media screen and (min-width:480px) {・・・}
+      @media screen and (min-width:768px) and (max-width:1024px) {・・・}
+      @media screen and (min-width:1024px) {・・・}
+    </style>
   </head>
   <body><!-- ページに表示される内容を書く --></body>
 </html>
