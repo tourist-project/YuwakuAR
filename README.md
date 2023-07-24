@@ -44,7 +44,7 @@ HTMLは様々な要素全体が`<html>`タグで囲まれたWebページを構�
 [BootStrapのドキュメント](https://getbootstrap.jp/docs/5.3/getting-started/introduction/)
 
 ## AR,jsについて
-今回はLocation-Based ARを活用するので、以下の3~5行目のスクリプトタグを追加する
+今回はLocation-Based ARを活用するので、以下の6~8行目のスクリプトタグを追加する
 
 ```html
 <html>
