@@ -63,6 +63,7 @@ HTMLは様々な要素全体が`<html>`タグで囲まれたWebページを構�
   </body>
 </html>
 ```
+これでLocation-Based ARのプログラミングの準備ができました。
 
 
 
